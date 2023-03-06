@@ -3,8 +3,6 @@
 ##### Live Website:
 
 - Live Server link: https://education-com-auth.web.app/
-- Github Repo Client Link:https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-omarsafayet05
-- Github Repo Server Link:https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-omarsafayet05
 
 ---
 
